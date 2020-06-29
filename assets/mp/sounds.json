@@ -1,0 +1,13 @@
+{
+  "music1": {
+    "sounds": [{
+      "name" : "mp:brunnen",
+      "stream" : true
+    }]},
+    "tower_voice": {
+    "sounds": [{
+      "name" : "mp:freefall",
+      "stream" : true
+    }]
+  }
+}
