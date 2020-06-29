@@ -9,5 +9,17 @@
       "name" : "mp:freefall",
       "stream" : true
     }]
+  },
+  "tower_zisch": {
+    "sounds": [{
+      "name" : "mp:freefall_zisch",
+      "stream" : true
+    }],
+  "launch_star_start": {
+    "sounds": [{
+      "name" : "mp:launch_star",
+      "stream" : true
+    }]
+  }
   }
 }
